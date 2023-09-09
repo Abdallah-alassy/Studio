@@ -1,0 +1,822 @@
+
+
+/* Start Navbar  */
+
+.navbar-default
+ {
+    margin-top: 25px;
+    background-color: #ffffff;
+    border: none;
+ } 
+ 
+.navbar-default .navbar-nav > li
+{
+    margin-right: 10px;
+}
+ 
+.navbar-default .navbar-nav > li > a 
+{
+    font-size: 18px;
+}
+
+
+ 
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus 
+{
+    background-color: #a3c7e5;
+    border-radius: 50px;
+}
+
+ .navbar-default .navbar-brand 
+ {
+    font-weight: bold;
+    font-size: 25px;
+ }
+
+ 
+
+/* End Navbar  */
+
+/* Srart Section Content  */
+
+.content
+{
+    margin-top: 100px;
+}
+
+.content h1
+{
+    margin-bottom: 40px;
+    color: #000000;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.content .lead
+{
+    color: #757575;
+    line-height: 160%;
+}
+
+.content button
+{
+    background-color: #2639ED;
+    color: #FFFFFF;
+    border: 0.5px solid #FFFFFF;
+    font-size: 20px;
+    padding: 20px 40px;
+    border-radius: 50px;
+    margin-bottom: 30px;
+    
+                     
+}
+
+.content-up
+{
+    position: relative;
+}
+
+.one
+{
+    
+    position: absolute;
+    width: 404px;
+    height: 154px;
+    left: -42px;
+    top: 257px;
+    z-index:-2;
+}
+
+
+
+/* End Section Content  */
+
+
+
+/* Start Section Contact  */
+
+.contact
+{
+    margin-top: 141px;
+}
+
+.contact h1
+{
+    margin-bottom: 20px;
+    color: #000000;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+ .contact .one-our
+ {
+    margin-top: 13px;
+ }
+
+ .contact .lead
+ {
+    color: #757575;
+    line-height: 160%;
+ }
+
+
+.contact img
+{
+    margin-top: 60px;
+    margin-right: 2px;
+    margin-left: 25px;
+}
+
+
+/* End Section Contact  */
+
+
+
+
+/* Start Section Business  */
+
+.business {
+    position: relative;
+    margin-top: 200px;
+}
+
+.business .main
+{
+    margin-top: 230px;
+
+
+}
+.business .main .pos-up
+{
+    position: absolute;
+    bottom: 70px;
+    z-index: -10;
+    left: -45px;
+}
+
+.business .main h1
+{
+    
+   margin-bottom: 20px;
+   color: #000000;
+   font-size: 40px;
+   font-weight: bold;
+
+}
+
+.business .main .lead       
+{
+    color: #757575;
+    line-height: 160%;
+    font-size: 16px;
+}
+
+.business .imag-pos {
+    position: absolute;
+    right: 0;
+    width: 1000px;
+    z-index: -3;
+}
+
+.box .table-four .look
+{
+    
+    position: absolute;
+    z-index: -20;
+    bottom: -50px;
+    right: -15px;
+}
+
+
+.box img
+{
+    margin-bottom: 15px;
+}
+.box h2
+{
+    font-size: 24px;
+    color: #000000;
+}
+
+.box .lead
+{
+    font-size: 17px;
+    color: #757575;
+    line-height: 140%;
+}
+
+.box .price-table .table-one ,.table-two ,
+.price-table2 .table-three,.table-four
+{
+    background: #fff;
+    padding: 60px 0;
+    border-radius:17%;
+    box-shadow: 0px 10px 50px 0px rgba(0, 0, 0, 0.05);
+}
+
+.box .table-up:last-child 
+{
+    margin-bottom:20px ;
+}
+ .price-table .table-one
+{
+    
+    margin-bottom: 40px;
+
+}
+
+  .price-table2 .table-three
+ 
+{
+    margin-bottom: 40px;
+
+}
+
+ 
+
+ .price-table
+{
+    margin-top: -40px;
+}
+.price-table2
+{
+    margin-top:-140px ;
+}
+ 
+
+
+
+
+
+/* End Section Business  */
+
+/* Start Section Product */
+ .Product
+ {
+    margin-top: 230px;
+
+ }
+
+ .Product .digital
+ {
+    position: relative;
+ }
+ .Product .digital .video
+ {
+    max-width: 100%;
+ }
+ .Product .digital .video2
+ {
+    position: absolute;
+    left: 41%;
+    bottom: 44%;
+}
+
+ 
+
+ .Product .service
+ {
+    margin-top: 75px;
+    position: relative;
+ }
+ .Product .service .dot
+ {
+    position: absolute;
+    z-index: -8;
+    top:-12px;
+ }
+ 
+ .Product .service h1
+ {
+   
+    color: #000000;
+    font-size: 41px;
+    font-weight: bold;
+    margin-bottom: 30px; 
+ 
+ }
+ 
+ .Product .service .lead
+ {
+    font-size: 17px;
+    color: #757575;
+    line-height: 160%;
+}
+
+.Product .digital .red
+{
+    position: absolute;
+    right: 3%;
+    top: 69%;
+    z-index: -40;
+}
+ 
+
+/* End Section Product */
+
+
+/* Start Section Client */
+
+.client
+{
+    margin-top: 70px;
+}
+.client .blog h1
+{
+    color: #000000;
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 16px;
+}
+.client .blog .lead
+{
+    
+    color: #757575;
+    line-height: 160%;
+    font-size: 17px;
+}
+
+
+/* End Section Client */
+
+
+/* Strat Section Slider */
+
+
+.slider
+{
+    margin-top: 150px;
+}
+.slider .item {
+    width: 100%;
+}
+.slider .slide-img img
+{
+    max-width:100% ;
+
+}
+.slider .slide-text 
+{
+    margin-top: 50px;
+}
+
+.slider .slide-text p
+{
+    font-size: 18px;
+}
+
+.carousel-indicators
+{
+    bottom: 74px;
+
+}
+.carousel-indicators
+{
+    left: 68%;
+
+}
+.carousel-indicators .active
+{
+    background-color: blue;
+    width: 15px;
+    height: 15px; 
+    margin: 0 7px ;
+}
+.carousel-indicators li 
+{
+    background-color: #337ab78c;
+    width: 15px;
+    height: 15px;
+    margin: 0 7px;
+
+}
+
+
+
+/* End Section Slider */
+
+
+/* Start Section Subscribe */
+.Subscribe 
+{
+    margin-top: 170px;
+
+}
+.Subscribe .container
+{
+    position: relative;
+
+}
+
+.Subscribe h1
+{
+    margin-bottom: 17px;
+    color: #000000;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.Subscribe .lead
+{
+    font-size: 18px;
+    line-height: 160%;
+    color: #757575;
+}
+.Subscribe .sub
+{
+    top: -85px;
+    position: absolute;
+    z-index: -20; 
+    max-width: 100%;
+    left: 0;
+}
+.Subscribe button
+{
+    border-radius: 50px;
+    background-color: blue;
+    padding: 20px;
+    border: none;
+
+}
+
+.Subscribe .for 
+{
+    padding: 20px;
+    border-radius: 50px;
+    box-shadow: 0px 10px 50px 0px rgba(0, 0, 0, 0.05);
+}
+
+.Subscribe .for .emai input
+{
+    padding: 20px;
+    border: none;
+    outline: none;
+    width: 100%;
+}
+
+.Subscribe .newsletter .jpg
+{
+    position: absolute;
+    top: 54%;
+    z-index: -33;
+    left: -5%;
+}
+
+
+/* End Section Subsribe */
+
+/* Start Section Leading */
+
+.leading
+{
+    margin-top: 333px;
+}
+
+
+.leading h2
+{
+    font-weight: bold;
+    font-size: 22px;
+    margin-bottom: 20px;
+
+}
+
+.leading .support p
+{
+    line-height: 32px;
+    font-weight: bold;
+    font-size: 13px;
+    margin-top: 30px;
+}
+
+.leading .company p
+{
+    
+    line-height: 170%;
+    color: #757575;
+    margin-top: 33px;
+
+}
+
+.leading .company img
+{
+    margin-top: 15px;
+    margin-right: 13px;
+}
+
+  
+.leading .support .good3
+{
+    padding-left:40px ;
+}
+
+
+/* End Section Leading */
+
+
+/* Start Section Footer */
+
+.footer .foot p
+{
+
+color: #A4A4A4;
+letter-spacing: 2px;
+font-size: 18px;
+}
+
+
+/* End Section Footer */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Start Media Query  */
+
+@media (max-width:767px)
+{
+      .slider .slide-text 
+    {
+        margin-top: 0;
+        margin-bottom: 70px;
+    }
+    .carousel-indicators 
+    {
+        left: 50%;
+        top:93%;
+
+    }
+
+    .navbar-toggle
+    {
+        margin-top: 9px;
+    }
+    .table-up
+    {
+        margin: 90px 0;
+    }
+    .leading
+    {
+        text-align: center;
+    }
+
+    .content 
+    {
+        margin-top: 50px;
+    }
+
+    .contact 
+    {
+        margin-top: 60px;
+    }
+
+    .business 
+     {
+        margin-top: 0;
+     }
+     
+    .box .price-table .table-one, .table-two, .price-table2 .table-three, .table-four 
+    {
+        padding: 70px 0;
+    }
+    .Product 
+    {
+        margin-top: 0px;
+    }
+    .business .main 
+    {
+        margin-top: 60px;
+    }
+    .contact .one-our 
+    {
+        margin-top: 0px;
+    }
+    .Product .service
+     {
+        margin-top: 0px;
+     }
+     .slider 
+     {
+        margin-top: 40px;
+     }
+      .Subscribe 
+       {
+        margin-top: 40px;
+       }
+      .leading 
+       {
+        margin-top: 50px;
+       }
+     
+      .Subscribe button
+     {
+       width: 100%;
+     }
+     .Subscribe .for .emai input 
+     {
+        text-align: center;
+     }
+     
+     .client 
+     {
+        margin-top: 25px;
+    
+     }
+
+     
+     .leading .support .good3 
+     {
+        padding-left: 15px;
+     }
+
+     .newsletter
+     {  
+        text-align: center;
+     }
+
+     .sex img
+     {
+        max-width: 100%;
+     }
+     
+}
+
+
+
+
+
+
+@media (min-width:768px) and (max-width:991px)
+{
+    
+   .navbar-default .navbar-nav > li 
+   {
+    
+      margin-right: 5px;
+   }
+
+   .navbar-right
+   {
+    margin-right: -30px;
+   }
+   .content
+   {
+   margin-top: 60px;
+   }
+   .business 
+   {
+       margin-top: 0px;
+   }
+   
+   .price-table2 .table-three 
+   {
+       margin-top: 180px;
+   }
+   
+   .business .main 
+   {
+       margin-top: 75px;
+   }
+
+   .business .main 
+   {
+       margin-bottom: 70px;             
+   }
+   
+   .Product .digital .video2 
+   {
+       left: 38%;
+   }
+   .Product 
+   {
+       margin-top: 40px;
+   }
+   .contact 
+   {
+       margin-top: 50px;
+   }
+   
+   .Product .service 
+   {
+    margin-top: 0px;
+   }
+   .client 
+   {
+    margin-top: 30px;
+   }
+   
+   .slider 
+   {
+      margin-top: 70px;
+   }
+   
+   .Subscribe 
+   {
+    margin-top: 90px;
+   }
+   
+   .Subscribe button 
+   {  
+    width: 100%;
+   }
+   .newsletter
+   {
+    text-align: center;
+   }
+   
+   .Subscribe .for .emai input 
+   {
+    text-align: center;
+   }
+   
+   .leading 
+   {
+    margin-top: 70px;
+   }
+   .leading .company
+   {
+    text-align: center;
+   }
+   .leading .support .good4
+   {
+    padding-top: 26px;
+   }
+   .leading .support
+   {
+    padding-top: 30px;
+    text-align: center;
+   }
+   
+   .leading .support .good3 
+   {
+     padding-left: 0;
+   }
+ 
+   
+   
+}
+
+@media (min-width:992px) and (max-width:1200px)
+
+
+{
+    .carousel-indicators 
+    {
+        bottom: 150px;
+    }
+    .leading .support .good4
+    {
+        padding-top: 23px;
+    }
+    
+    .leading 
+    {
+        margin-top: 60px;
+    }
+    
+    .leading .support .good3 
+    {
+        padding-left: 15px;
+    }
+    
+    .Product .service 
+    {
+        margin-top: 50px;
+    }
+
+    
+
+.box .price-table .table-one, .table-two, .price-table2 .table-three, .table-four 
+   {
+       padding: 30px 0;
+   }
+   
+.Subscribe .for 
+   {
+       margin-top: 20px;
+   }
+}
+
+    
+
+
+
+
+
+
+
+/* End Media Query  */
+
